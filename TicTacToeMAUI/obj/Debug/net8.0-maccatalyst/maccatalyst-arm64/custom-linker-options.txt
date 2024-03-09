@@ -220,7 +220,7 @@ MonoLibrary=/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.mac
 				RuntimeConfigurationFile=runtimeconfig.bin
 				SdkDevPath=/Applications/Xcode.app/Contents/Developer
 				SdkRootDirectory=/usr/local/share/dotnet/packs/Microsoft.MacCatalyst.Sdk/17.2.8022/
-				SdkVersion=14.2
+				SdkVersion=14.4
 				SkipMarkingNSObjectsInUserAssemblies=
 				TargetArchitectures=ARM64
 				TargetFramework=.NETCoreApp,Version=v8.0,Profile=maccatalyst
