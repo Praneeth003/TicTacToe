@@ -1,1 +1,0 @@
--v --force --timestamp=none --sign - --entitlements /Users/praneeth/Downloads/TicTacToe/TicTacToeMAUI/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/praneeth/Downloads/TicTacToe/TicTacToeMAUI/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/TicTacToeMAUI.app
